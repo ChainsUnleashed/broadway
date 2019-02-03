@@ -1,0 +1,61 @@
+*{
+  text-align: center ;
+  font-family: helvetica;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.list{
+  font-size: 18px;
+  color: white;
+  list-style-type:none;
+}
+
+.minititle{
+  font-size: 32px;
+  font-weight: bold;
+}
+.part1{
+  background-image: url(../img/building.png);
+  background-color: #cccccc; /* Used if the image is unavailable */
+ height: 300px; /* You must set a specified height */
+ background-position: center; /* Center the image */
+ background-repeat: no-repeat; /* Do not repeat the image */
+ background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.subtitle{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+.design{
+font-size: 23px;
+font-weight: bold;
+color: white;
+background-image: url(../img/building.png);
+background-color: #cccccc; /* Used if the image is unavailable */
+height: 25px; /* You must set a specified height */
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.part5{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray; /* Used if the image is unavailable */
+  container */
+  text-align: left !important;
+
+}
+
+a{
+  color: white;
+}
